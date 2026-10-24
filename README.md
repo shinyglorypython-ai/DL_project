@@ -19,8 +19,8 @@ Deep learning model (TextVectorization + Embedding + Bidirectional LSTM) that cl
 | Recall (Fake) | 99.33% |
 | F1-score (Fake) | 98.80% |
 
-![Training Curves](images/training_curves.png)
-![Confusion Matrix](images/confusion_matrix.png)
+![Training Curves](accuracy.png)
+![Confusion Matrix](confusion.png)
 
 ## Model
 - TextVectorization (20,000 words, 300 tokens per article)
