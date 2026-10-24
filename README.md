@@ -32,5 +32,4 @@ Deep learning model (TextVectorization + Embedding + Bidirectional LSTM) that cl
 - The model learns writing-style patterns and does not fact-check articles.
 - This dataset is relatively easy, so results may be lower on news from other sources.
 
-## How to run
-Open the notebook in Google Colab, set the runtime to GPU, and run all cells.
+
